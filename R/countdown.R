@@ -9,7 +9,7 @@
 #' @param elementId Id of element
 #'
 #' @examples
-#' odometer(347)
+#' countdown(347)
 #'
 #' @import htmlwidgets
 #'
