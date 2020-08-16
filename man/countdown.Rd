@@ -28,6 +28,6 @@ countdown(
 Odmoter JS R Wrapper
 }
 \examples{
-odometer(347)
+countdown(347)
 
 }
