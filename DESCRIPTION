@@ -1,0 +1,17 @@
+Package: countdown
+Title: Odometers
+Version: 0.0.1
+Date: 2020-08-16
+Authors@R: person("Deepanshu", "Bhalla", email = "deepanshu.bhalla@anacapfp.com", role = c("aut", "cre"))
+Description: Odometers
+Depends:
+    R (>= 3.3.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    htmlwidgets,
+    htmltools,
+    shiny
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
